@@ -2,7 +2,7 @@
  *
  *      ioBroker Discovery Adapter
  *
- *      Copyright (c) 2017-2022 Bluefox <dogafox@gmail.com>
+ *      Copyright (c) 2017-2023 Bluefox <dogafox@gmail.com>
  *
  *      MIT License
  *
